@@ -1,2 +1,4 @@
 numpy
-cv2
+requests
+opencv-python
+streamlit  
